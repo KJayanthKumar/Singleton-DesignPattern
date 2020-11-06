@@ -1,0 +1,7 @@
+C:\Users\jk063102\OneDrive - Cerner Corporation\Learning\DesignPatterns\Singleton\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+C:\Users\jk063102\OneDrive - Cerner Corporation\Learning\DesignPatterns\Singleton\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+C:\Users\jk063102\OneDrive - Cerner Corporation\Learning\DesignPatterns\Singleton\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+C:\Users\jk063102\OneDrive - Cerner Corporation\Learning\DesignPatterns\Singleton\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojAssemblyReference.cache
+C:\Users\jk063102\OneDrive - Cerner Corporation\Learning\DesignPatterns\Singleton\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\jk063102\OneDrive - Cerner Corporation\Learning\DesignPatterns\Singleton\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+C:\Users\jk063102\OneDrive - Cerner Corporation\Learning\DesignPatterns\Singleton\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb
